@@ -1,20 +1,14 @@
 # agent-skills
 
-Public Hermes skills I share with friends.
+Hermes skills
 
 ## Included
 
 - `creative/space-expanding-generation`
 
-## Install
-
-```bash
-hermes skills tap add https://github.com/phil-on-air/agent-skills
-```
-
 ## What this repo contains
 
-A small curated subset of shareable skills, not my full private skill library.
+A small subset of shareable skills, not my full private skill library.
 
 Each skill lives in its own folder with a `SKILL.md` file.
 
